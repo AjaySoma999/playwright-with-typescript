@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "sauce-labs-backpack",
+      "name": "Sauce Labs Backpack",
+      "price": 29.99,
+      "description": "Carry all the things with the Sauce Labs backpack."
+    },
+    {
+      "id": "sauce-labs-bike-light",
+      "name": "Sauce Labs Bike Light",
+      "price": 9.99,
+      "description": "A beacon of light for your path."
+    },
+    {
+      "id": "sauce-labs-bolt-t-shirt",
+      "name": "Sauce Labs Bolt T-Shirt",
+      "price": 15.99,
+      "description": "Get your swag on with this tee."
+    }
+  ]
+}

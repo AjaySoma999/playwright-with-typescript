@@ -1,0 +1,10 @@
+{
+  "customerInfo": [
+    { "firstName": "John", "lastName": "Doe", "postalCode": "12345" },
+    { "firstName": "Jane", "lastName": "Smith", "postalCode": "67890" }
+  ],
+  "cartItems": [
+    "sauce-labs-backpack",
+    "sauce-labs-bike-light"
+  ]
+}

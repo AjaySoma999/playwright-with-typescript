@@ -1,0 +1,12 @@
+{
+  "customerInfo": [
+    { "firstName": "", "lastName": "Doe", "postalCode": "12345", "expectedError": "First Name is required" },
+    { "firstName": "John", "lastName": "", "postalCode": "12345", "expectedError": "Last Name is required" },
+    { "firstName": "John", "lastName": "Doe", "postalCode": "", "expectedError": "Postal Code is required" },
+    { "firstName": "A", "lastName": "B", "postalCode": "12", "expectedError": "Postal Code is invalid" }
+  ],
+  "cartVariants": [
+    { "items": [], "expectedError": "Your cart is empty" },
+    { "items": ["sauce-labs-backpack"], "expectedTotal": 29.99 }
+  ]
+}
